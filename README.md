@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey , I am Austin 👋<br>⛅Cloud Administrator<br>👨🏽‍💻 Coding Padawan<br>🍔🧀🥑 Foodie<br>
+Hey, I'm Austin 👋<br>⛅Cloud Administrator<br>👨🏽‍💻 Coding Padawan<br>🍔🧀🥑 Foodie<br>
 
 
 ## 🌐 Socials:
