@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hey, I'm Austin 👋<br>⛅Cloud Administrator<br>👨🏽‍💻 Coding Padawan<br>🍔🧀🥑 Foodie<br>
+Hey , I am Austin 👋<br>⛅Cloud Administrator<br>👨🏽‍💻 Coding Padawan<br>🍔🧀🥑 Foodie<br>
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/austin-smith-92b972112/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@austinsmith1) 
 
 # 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
